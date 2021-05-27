@@ -1,7 +1,7 @@
 # Expressional-AI
 A Virtual Assistant with facial emotion recognition
 
->Prereuisites
+>**Prereuisites**
 ```
 pip install pyttsx3
 pip install PyAudio
